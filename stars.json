@@ -1,27 +1,27 @@
 [
   {
     "full_name": "zutrinken/bleak",
-    "stargazers_count": 509,
-    "open_issues_count": 11,
+    "stargazers_count": 510,
+    "open_issues_count": 12,
     "forks_count": 137
   },
   {
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 21125,
-    "open_issues_count": 49,
-    "forks_count": 896
+    "stargazers_count": 21152,
+    "open_issues_count": 50,
+    "forks_count": 899
   },
   {
     "full_name": "rainbow-me/rainbow",
-    "stargazers_count": 1117,
+    "stargazers_count": 1124,
     "open_issues_count": 28,
     "forks_count": 166
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 20244,
-    "open_issues_count": 114,
-    "forks_count": 1678
+    "stargazers_count": 20317,
+    "open_issues_count": 123,
+    "forks_count": 1687
   },
   {
     "full_name": "Aarif123456/KeystrokeDynamicsSpoofer",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "benawad/fullstack-graphql-airbnb-clone",
-    "stargazers_count": 1362,
+    "stargazers_count": 1365,
     "open_issues_count": 23,
     "forks_count": 402
   },
   {
     "full_name": "negomi/react-burger-menu",
-    "stargazers_count": 4447,
+    "stargazers_count": 4455,
     "open_issues_count": 4,
-    "forks_count": 557
+    "forks_count": 558
   },
   {
     "full_name": "EugeCos/stylish-sidebar",
@@ -67,20 +67,20 @@
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 1927,
+    "stargazers_count": 1932,
     "open_issues_count": 34,
     "forks_count": 165
   },
   {
     "full_name": "microsoft/cascadia-code",
-    "stargazers_count": 17675,
+    "stargazers_count": 17702,
     "open_issues_count": 63,
-    "forks_count": 566
+    "forks_count": 568
   },
   {
     "full_name": "google/android-emulator-hypervisor-driver-for-amd-processors",
-    "stargazers_count": 335,
-    "open_issues_count": 34,
+    "stargazers_count": 338,
+    "open_issues_count": 35,
     "forks_count": 111
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "tschaub/gh-pages",
-    "stargazers_count": 2575,
+    "stargazers_count": 2584,
     "open_issues_count": 94,
     "forks_count": 172
   },
   {
     "full_name": "0xPolygon/polygon-sdk",
-    "stargazers_count": 239,
+    "stargazers_count": 244,
     "open_issues_count": 8,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "hunterbecton/react-firebase-passwordless",
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "CodeFlow201/GitMarkonics",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 21,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "WazirX/wazirx-api",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 17,
     "forks_count": 34
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 82204,
+    "stargazers_count": 82294,
     "open_issues_count": 5,
-    "forks_count": 8859
+    "forks_count": 8878
   },
   {
     "full_name": "ConsenSys/Tokens",
-    "stargazers_count": 1491,
+    "stargazers_count": 1495,
     "open_issues_count": 21,
-    "forks_count": 996
+    "forks_count": 1000
   },
   {
     "full_name": "Priyanshu-CODERX/Fake-News-Classifier",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "hugo-toha/toha",
-    "stargazers_count": 376,
+    "stargazers_count": 380,
     "open_issues_count": 33,
-    "forks_count": 269
+    "forks_count": 270
   },
   {
     "full_name": "CRED-CLUB/synth-android",
-    "stargazers_count": 697,
+    "stargazers_count": 700,
     "open_issues_count": 1,
     "forks_count": 65
   },
   {
     "full_name": "education/GitHubGraduation-2021",
-    "stargazers_count": 1396,
+    "stargazers_count": 1395,
     "open_issues_count": 1353,
-    "forks_count": 8160
+    "forks_count": 8153
   },
   {
     "full_name": "An-prog-hub/covidstar",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 117036,
+    "stargazers_count": 117198,
     "open_issues_count": 324,
-    "forks_count": 38608
+    "forks_count": 38673
   }
 ]

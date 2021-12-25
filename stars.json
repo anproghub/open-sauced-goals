@@ -1,27 +1,27 @@
 [
   {
     "full_name": "zutrinken/bleak",
-    "stargazers_count": 516,
+    "stargazers_count": 517,
     "open_issues_count": 12,
     "forks_count": 138
   },
   {
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 21951,
-    "open_issues_count": 44,
-    "forks_count": 952
+    "stargazers_count": 21972,
+    "open_issues_count": 49,
+    "forks_count": 957
   },
   {
     "full_name": "rainbow-me/rainbow",
-    "stargazers_count": 1967,
-    "open_issues_count": 31,
-    "forks_count": 264
+    "stargazers_count": 1992,
+    "open_issues_count": 28,
+    "forks_count": 266
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 22799,
-    "open_issues_count": 113,
-    "forks_count": 1980
+    "stargazers_count": 22851,
+    "open_issues_count": 117,
+    "forks_count": 1989
   },
   {
     "full_name": "Aarif123456/KeystrokeDynamicsSpoofer",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "benawad/fullstack-graphql-airbnb-clone",
-    "stargazers_count": 1427,
+    "stargazers_count": 1425,
     "open_issues_count": 23,
     "forks_count": 412
   },
   {
     "full_name": "negomi/react-burger-menu",
-    "stargazers_count": 4548,
+    "stargazers_count": 4550,
     "open_issues_count": 3,
     "forks_count": 564
   },
@@ -68,20 +68,20 @@
   {
     "full_name": "davidhu2000/react-spinners",
     "stargazers_count": 2055,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 178
   },
   {
     "full_name": "microsoft/cascadia-code",
-    "stargazers_count": 18718,
+    "stargazers_count": 18738,
     "open_issues_count": 64,
-    "forks_count": 624
+    "forks_count": 623
   },
   {
     "full_name": "google/android-emulator-hypervisor-driver-for-amd-processors",
-    "stargazers_count": 402,
+    "stargazers_count": 403,
     "open_issues_count": 39,
-    "forks_count": 143
+    "forks_count": 145
   },
   {
     "full_name": "kiruba-r11/file-categorizer",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "tschaub/gh-pages",
-    "stargazers_count": 2686,
+    "stargazers_count": 2689,
     "open_issues_count": 101,
     "forks_count": 176
   },
   {
     "full_name": "0xPolygon/polygon-sdk",
-    "stargazers_count": 388,
+    "stargazers_count": 393,
     "open_issues_count": 20,
-    "forks_count": 84
+    "forks_count": 88
   },
   {
     "full_name": "hunterbecton/react-firebase-passwordless",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 89167,
+    "stargazers_count": 89445,
     "open_issues_count": 6,
-    "forks_count": 9504
+    "forks_count": 9527
   },
   {
     "full_name": "ConsenSys/Tokens",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "hugo-toha/toha",
-    "stargazers_count": 431,
-    "open_issues_count": 38,
-    "forks_count": 307
+    "stargazers_count": 433,
+    "open_issues_count": 39,
+    "forks_count": 308
   },
   {
     "full_name": "CRED-CLUB/synth-android",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "education/GitHubGraduation-2021",
-    "stargazers_count": 1408,
+    "stargazers_count": 1406,
     "open_issues_count": 1345,
-    "forks_count": 7914
+    "forks_count": 7912
   },
   {
     "full_name": "An-prog-hub/covidstar",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 123010,
-    "open_issues_count": 324,
-    "forks_count": 40301
+    "stargazers_count": 123163,
+    "open_issues_count": 323,
+    "forks_count": 40358
   }
 ]

@@ -3,25 +3,25 @@
     "full_name": "zutrinken/bleak",
     "stargazers_count": 517,
     "open_issues_count": 12,
-    "forks_count": 138
+    "forks_count": 139
   },
   {
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 21972,
-    "open_issues_count": 49,
-    "forks_count": 957
+    "stargazers_count": 21995,
+    "open_issues_count": 47,
+    "forks_count": 958
   },
   {
     "full_name": "rainbow-me/rainbow",
-    "stargazers_count": 1992,
-    "open_issues_count": 28,
-    "forks_count": 266
+    "stargazers_count": 2010,
+    "open_issues_count": 31,
+    "forks_count": 270
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 22851,
-    "open_issues_count": 117,
-    "forks_count": 1989
+    "stargazers_count": 22915,
+    "open_issues_count": 124,
+    "forks_count": 1991
   },
   {
     "full_name": "Aarif123456/KeystrokeDynamicsSpoofer",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "benawad/fullstack-graphql-airbnb-clone",
-    "stargazers_count": 1425,
+    "stargazers_count": 1429,
     "open_issues_count": 23,
-    "forks_count": 412
+    "forks_count": 413
   },
   {
     "full_name": "negomi/react-burger-menu",
-    "stargazers_count": 4550,
-    "open_issues_count": 3,
-    "forks_count": 564
+    "stargazers_count": 4549,
+    "open_issues_count": 4,
+    "forks_count": 565
   },
   {
     "full_name": "EugeCos/stylish-sidebar",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 2055,
+    "stargazers_count": 2057,
     "open_issues_count": 25,
     "forks_count": 178
   },
   {
     "full_name": "microsoft/cascadia-code",
-    "stargazers_count": 18738,
+    "stargazers_count": 18761,
     "open_issues_count": 64,
-    "forks_count": 623
+    "forks_count": 625
   },
   {
     "full_name": "google/android-emulator-hypervisor-driver-for-amd-processors",
-    "stargazers_count": 403,
+    "stargazers_count": 404,
     "open_issues_count": 39,
-    "forks_count": 145
+    "forks_count": 148
   },
   {
     "full_name": "kiruba-r11/file-categorizer",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "tschaub/gh-pages",
-    "stargazers_count": 2689,
+    "stargazers_count": 2693,
     "open_issues_count": 101,
     "forks_count": 176
   },
   {
     "full_name": "0xPolygon/polygon-sdk",
-    "stargazers_count": 393,
-    "open_issues_count": 20,
-    "forks_count": 88
+    "stargazers_count": 407,
+    "open_issues_count": 23,
+    "forks_count": 89
   },
   {
     "full_name": "hunterbecton/react-firebase-passwordless",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 89445,
+    "stargazers_count": 90350,
     "open_issues_count": 6,
-    "forks_count": 9527
+    "forks_count": 9554
   },
   {
     "full_name": "ConsenSys/Tokens",
-    "stargazers_count": 1574,
-    "open_issues_count": 20,
-    "forks_count": 1065
+    "stargazers_count": 1580,
+    "open_issues_count": 21,
+    "forks_count": 1066
   },
   {
     "full_name": "Priyanshu-CODERX/Fake-News-Classifier",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "hugo-toha/toha",
-    "stargazers_count": 433,
-    "open_issues_count": 39,
+    "stargazers_count": 434,
+    "open_issues_count": 41,
     "forks_count": 308
   },
   {
     "full_name": "CRED-CLUB/synth-android",
     "stargazers_count": 781,
     "open_issues_count": 5,
-    "forks_count": 74
+    "forks_count": 76
   },
   {
     "full_name": "education/GitHubGraduation-2021",
-    "stargazers_count": 1406,
-    "open_issues_count": 1345,
-    "forks_count": 7912
+    "stargazers_count": 1404,
+    "open_issues_count": 1346,
+    "forks_count": 7903
   },
   {
     "full_name": "An-prog-hub/covidstar",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "gatsbyjs/store.gatsbyjs.org",
-    "stargazers_count": 569,
+    "stargazers_count": 568,
     "open_issues_count": 22,
-    "forks_count": 217
+    "forks_count": 216
   },
   {
     "full_name": "An-prog-hub/human-pose-estimation",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 123163,
+    "stargazers_count": 123317,
     "open_issues_count": 323,
-    "forks_count": 40358
+    "forks_count": 40404
   }
 ]
